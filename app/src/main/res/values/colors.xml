@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#00B238</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#00B238</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_color">#F1F4F4</color>
+    <color name="text_color">#000000</color>
+    <color name="settings_item_color">#FFFFFFFF</color>
+    <color name="bottom_navigation">#FFFFFF</color>
+    <color name="bottom_navigation_iconTint">#7C00B238</color>
+    <color name="rv_item_color">#FFFFFF</color>
+    <color name="edite_bac">#FFFFFF</color>
+    <color name="tab_item">#FFFFFF</color>
+    <color name="year">#494848</color>
+    <color name="screem">#FFFFFF</color>
+    <color name="text">#494848</color>
+    <color name="save">#FFFFFF</color>
+
+
+</resources>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#00B238</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#00B238</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="main_color">#1A222C</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="settings_item_color" tools:ignore="MissingDefaultResource">#25303F</color>
+    <color name="bottom_navigation">#25303F</color>
+    <color name="bottom_navigation_iconTint">#83F2F4F3</color>
+    <color name="rv_item_color">#25303F</color>
+    <color name="edite_bac">#25303F</color>
+    <color name="tab_item">#25303F</color>
+    <color name="year">#FFFFFF</color>
+    <color name="screem">#1A222C</color>
+    <color name="text">#FFFFFF</color>
+    <color name="save">#25303F</color>
+</resources>
